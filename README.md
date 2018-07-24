@@ -1,4 +1,4 @@
-# URLformatter.py
+# URLformatter
 Python script to format Sublist3r output into a list usable by Eyewitness or httpscreenshot
 
 ## Purpose
